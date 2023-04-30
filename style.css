@@ -5,12 +5,12 @@ body{
     justify-content: center;
     align-items: center;
     /* background-color:royalblue; */
-    background-color: #B0DAFF;
+    background-color: #AA77FF;
     font-family: 'Courier New', Courier, monospace;
 }
 
 .container{
-    background-color: #B9E9FC;
+    background-color: #62CDFF;
     padding: 28px;
     border-radius: 7px;
     box-shadow: 0 10px 10px rgba(2, 2, 2, 0.3);
